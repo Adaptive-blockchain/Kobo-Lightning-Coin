@@ -1,0 +1,9 @@
+Building KoboLightningCoin
+
+See doc/readme-qt.rst for instructions on building KoboLightningCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KoboLightningCoin.
+
+See doc/build-*.txt for instructions on building kobolightningcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KoboLightningCoin.
