@@ -1,7 +1,19 @@
 
 KoboLightningCoin development tree
 
-KoboLightningCoin is a PoS-based cryptocurrency.
+- Coin name: Kobo Lightning Coin
+- Coin abbreviation: KBLC
+- Algorithm : Scrypt
+- 64 Target spacing
+- Coins per Block: 10
+- PoS Reward (currency growth) per year: ~5%
+- Min coin age to begin staking: 8 hrs
+- 20 blocks for coinbase maturity   
+- 3 confirmations required for transactions
+- Number of coin supply: 6,000,000
+- RPC Port: 33402
+- P2P Port: 33401
+- addnode=145.239.189.106
 
 Development process
 ===========================
