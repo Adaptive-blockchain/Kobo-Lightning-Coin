@@ -14,6 +14,8 @@ KoboLightningCoin development tree
 - RPC Port: 33402
 - P2P Port: 33401
 - addnode=145.239.189.106
+- addnode=37.97.242.80
+- addnode=2a01:7c8:fffb:d7:5054:ff:feb2:afc
 
 Development process
 ===========================
